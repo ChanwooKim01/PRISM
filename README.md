@@ -18,7 +18,7 @@
 </p>
 
 <h4 align="center">
-  <a href="mailto:minseojung@hanyang.ac.kr">Minseo Jung</a>, <a href="mailto:chanwookim01@hanyang.ac.kr">Chanwoo Kim</a>, <a href="mailto:dongguekim@hanyang.ac.kr">Donggue Kim</a>, <a href="mailto:hyunjunkim@hanyang.ac.kr">Hyunjun Kim</a>, <a href="mailto:jeongwoopark@hanyang.ac.kr">Jeongwoo Park</a>, <a href="mailto:kichunjo@hanyang.ac.kr">Kichun Jo</a>
+  <a href="mailto:minseojung@hanyang.ac.kr">Minseo Jung*</a>, <a href="mailto:chanwookim01@hanyang.ac.kr">Chanwoo Kim*</a>, <a href="mailto:dongguekim@hanyang.ac.kr">Donggue Kim</a>, <a href="mailto:hyunjunkim@hanyang.ac.kr">Hyunjun Kim</a>, <a href="mailto:jeongwoopark@hanyang.ac.kr">Jeongwoo Park</a>, <a href="mailto:kichunjo@hanyang.ac.kr">Kichun Jo†</a>
 </h4>
 </div>
 
@@ -111,11 +111,13 @@ We provide pretrained checkpoints for all benchmark models across 6 input modali
 
 ## Citation<a name="citation"></a>
 ```bibtex
-@inproceedings{prism2026,
-  title     = {PRISM: Polarimetric Road-surface Intelligent Sensing and Measurement Dataset},
+@inproceedings{jung2026prism,
+  title     = {{PRISM}: Polarimetric Road-surface Intelligent Sensing and Measurement Dataset},
   author    = {Jung, Minseo and Kim, Chanwoo and Kim, Donggue and Kim, Hyunjun and Park, Jeongwoo and Jo, Kichun},
-  booktitle = {Advances in Neural Information Processing Systems 39 (NeurIPS 2026), Evaluations and Datasets Track},
-  year      = {2026}
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {39},
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=up7uSAvqnp}
 }
 ```
 
