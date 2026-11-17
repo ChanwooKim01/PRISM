@@ -112,7 +112,7 @@ We provide pretrained checkpoints for all benchmark models across 6 input modali
 ## Citation<a name="citation"></a>
 ```bibtex
 @inproceedings{jung2026prism,
-  title     = {{PRISM}: Polarimetric Road-surface Intelligent Sensing and Measurement Dataset},
+  title     = {PRISM: Polarimetric Road-surface Intelligent Sensing and Measurement Dataset},
   author    = {Jung, Minseo and Kim, Chanwoo and Kim, Donggue and Kim, Hyunjun and Park, Jeongwoo and Jo, Kichun},
   booktitle = {Advances in Neural Information Processing Systems},
   volume    = {39},
